@@ -15,4 +15,4 @@ The Thief defeats the Mage: The thief's agility allows them to dodge spells and 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/meme-source/assignment3.git
